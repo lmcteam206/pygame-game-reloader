@@ -14,7 +14,7 @@ This Python script automatically monitors and reloads your Pygame development sc
 
 ---
 
-## 🚀 Requirements.
+## 🚀 Requirements
 
 Install the dependencies using pip:
 
